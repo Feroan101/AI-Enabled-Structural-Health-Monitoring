@@ -44,7 +44,7 @@ This AI-driven project addresses the critical need for real-time monitoring of i
 1. Clone the repository:
 
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/Feroan101/AI-Enabled-Structural-Health-Monitoring?tab=readme-ov-file#technologies-used
     cd ai-enabled-shm
     ```
 
